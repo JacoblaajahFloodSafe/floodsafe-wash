@@ -45,7 +45,7 @@ FloodSafe WASH manages waste across the entire chain:
 |---|---|
 | Laarjah Jacob Yennumi | Project Lead |
 | [Teammate 2] | Developer |
-| [Teammate 3] | WASH Specialist |
+| Belinda Alo | WASH Specialist |
 
 ## 🏆 UNICEF StartupLab Challenge 2026
 
